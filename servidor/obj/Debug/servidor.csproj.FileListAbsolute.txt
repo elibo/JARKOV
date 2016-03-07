@@ -1,0 +1,12 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\servidor\bin\Debug\servidor.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\servidor\bin\Debug\servidor.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\servidor\bin\Debug\servidor.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\servidor\obj\Debug\servidor.Form1.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\servidor\obj\Debug\servidor.Properties.Resources.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\servidor\obj\Debug\servidor.csproj.GenerateResource.Cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\servidor\obj\Debug\servidor.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\servidor\obj\Debug\servidor.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\servidor\obj\Debug\servidor.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Desktop\jarkov\servidor\bin\Debug\servidor.exe.config
+C:\Users\elibo\Desktop\jarkov\servidor\obj\Debug\servidor.exe
+C:\Users\elibo\Desktop\jarkov\servidor\obj\Debug\servidor.pdb

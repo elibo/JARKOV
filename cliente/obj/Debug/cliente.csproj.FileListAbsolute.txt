@@ -1,0 +1,18 @@
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\cliente\bin\Debug\cliente.exe.config
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\cliente\bin\Debug\cliente.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\cliente\bin\Debug\cliente.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\cliente\obj\Debug\cliente.Form1.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\cliente\obj\Debug\cliente.Properties.Resources.resources
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\cliente\obj\Debug\cliente.csproj.GenerateResource.Cache
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\cliente\obj\Debug\cliente.exe
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\cliente\obj\Debug\cliente.pdb
+C:\Users\elibo\Documents\Visual Studio 2015\Projects\servidor\cliente\obj\Debug\cliente.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Desktop\jarkov\cliente\bin\Debug\cliente.exe.config
+C:\Users\elibo\Desktop\jarkov\cliente\obj\Debug\cliente.exe
+C:\Users\elibo\Desktop\jarkov\cliente\obj\Debug\cliente.pdb
+C:\Users\elibo\Desktop\jarkov\cliente\bin\Debug\cliente.exe
+C:\Users\elibo\Desktop\jarkov\cliente\bin\Debug\cliente.pdb
+C:\Users\elibo\Desktop\jarkov\cliente\obj\Debug\cliente.csprojResolveAssemblyReference.cache
+C:\Users\elibo\Desktop\jarkov\cliente\obj\Debug\cliente.Form1.resources
+C:\Users\elibo\Desktop\jarkov\cliente\obj\Debug\cliente.Properties.Resources.resources
+C:\Users\elibo\Desktop\jarkov\cliente\obj\Debug\cliente.csproj.GenerateResource.Cache
